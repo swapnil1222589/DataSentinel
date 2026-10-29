@@ -13,7 +13,7 @@ All contributors and participants are expected to adhere to our [Code of Conduct
 ## 🛠️ Development Setup
 
 1. **Fork and Clone the Repository:**
-   ```bash
+   ```bash 
    git clone https://github.com/<your-username>/datasentinel.git
    cd datasentinel
    ```
