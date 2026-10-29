@@ -28,7 +28,7 @@ Before passing datasets into analytics dashboards, predictive ML models, or ETL 
 - 📐 **Deterministic Logic:** Rigorous mathematical and statistical checks (Tukey's IQR, Z-scores, 2-sample Kolmogorov-Smirnov test, Population Stability Index).
 - ⚖️ **Transparent Scoring:** Documented multi-dimensional scoring (Completeness, Validity, Uniqueness, Consistency) with an audit trail explaining every deduction.
 - 📊 **Executive & Deep-Dive UI:** Built with dark navy SaaS aesthetics, responsive Plotly charts, and paginated exploration.
-- 📦 **Multi-Format Exports:** Export full audit packages in machine-readable JSON, issues CSV, deduplicated dataset CSV, or self-contained standalone HTML.
+- 📦 **Multi-Format Exports:** Export full audit packages in machine-readable JSON, issues CSV, deduplicated dataset CSV, or self-contained standalone HTML. 
 
 ---
 
