@@ -68,7 +68,7 @@ Open your browser at **http://localhost:8501** to view DataSentinel.
 
 ---
 
-## 🖥️ Application Features & Walkthrough
+## 🖥️ Application Features & Walkthroughs
 
 | Module | Description |
 | :--- | :--- |
