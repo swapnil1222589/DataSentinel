@@ -125,7 +125,7 @@ datasentinel/
 
 ---
 
-## 🧪 Automated Testing & Quality Checks
+## 🧪 Automated Testing & Quality Checks 
 
 Run the complete test suite with coverage:
 
