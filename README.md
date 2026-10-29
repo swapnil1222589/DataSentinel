@@ -34,7 +34,7 @@ Before passing datasets into analytics dashboards, predictive ML models, or ETL 
 
 ## 🚀 Quick Start
 
-### 1. Prerequisites
+### 1. Prerequisites 
 - Python 3.10 or newer
 - `pip` or virtualenv
 
