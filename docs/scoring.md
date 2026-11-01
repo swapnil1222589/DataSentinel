@@ -9,7 +9,7 @@ DataSentinel calculates a transparent, deterministic **Data Quality Score** rang
 
 ## Dimensions and Default Weights
 
-The overall score is a normalized weighted average of four core data quality dimensions:
+The overall score is a normalized weighted average of four core data quality dimensions: 
 
 $$\text{Overall Score} = w_c \cdot S_{\text{comp}} + w_v \cdot S_{\text{val}} + w_u \cdot S_{\text{uniq}} + w_s \cdot S_{\text{cons}}$$
 
