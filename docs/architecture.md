@@ -1,6 +1,6 @@
 # DataSentinel Architecture & Technical Design
 
-DataSentinel is an open-source, local-first dataset quality and observability platform engineered to detect data quality anomalies, structural defects, and distribution shifts before datasets enter analytics or machine learning pipelines.
+DataSentinel is an open-source, local-first dataset quality and observability platform engineered to detect data quality anomalies, structural defects, and distribution shifts before datasets enter analytics or machine learning pipelines. 
 
 ## Architectural Principles
 
