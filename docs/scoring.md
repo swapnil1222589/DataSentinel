@@ -44,7 +44,7 @@ Starts at **100.0** points:
 - **Custom Rule Failures:** Deducts between 5.0 and 25.0 points per failed rule depending on violation rate:
   $$\Delta_{\text{rule}} = \min(25.0, \, \max(5.0, \, \text{Violation Rate} \times 0.4))$$
 - **Mixed Data Types:** 8.0 points per column containing incompatible Python types.
-- **Numbers Stored as Text:** 5.0 points per text column that contains parseable numbers.
+- **Numbers Stored as Text:** 5.0 points per text column that contains parseable numbers. 
 - **Result:** $S_{\text{val}} = \max(0.0, \, 100.0 - \sum \Delta_{\text{val}})$.
 
 ### 4. Consistency Score ($S_{\text{cons}}$)
