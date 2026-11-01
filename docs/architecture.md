@@ -7,7 +7,7 @@ DataSentinel is an open-source, local-first dataset quality and observability pl
 1. **Deterministic Local Processing:** Every metric, distribution, and anomaly score is computed locally using deterministic mathematical and statistical algorithms (NumPy, Pandas, SciPy). Zero cloud telemetry or external AI dependencies are required.
 2. **Strict Dataset Immutability:** Raw uploaded datasets are strictly treated as read-only. Deduplication or cleaning generates separate exportable copies, preserving the audit trail.
 3. **Decoupled Architecture:** The core analysis engines (`engine/`) operate independently of the presentation layer (`pages/`, `components/`), enabling headless execution and CLI integration.
-4. **Transparent Scoring:** DataSentinel avoids black-box heuristics; every deduction point is documented in an audit log with severity, affected counts, and explicit penalty rationale.
+4. **Transparent Scoring:** DataSentinel avoids black-box heuristics; every deduction point is documented in an audit log with severity, affected counts, and explicit penalty rationale.  
 
 ---
 
