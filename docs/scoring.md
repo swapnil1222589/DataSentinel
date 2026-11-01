@@ -64,7 +64,7 @@ If **any CRITICAL severity issue** is detected (e.g. a column is 100% empty, or 
 
 ---
 
-## Letter Grade Boundaries 
+## Letter Grade Boundaries  
 
 | Score Range | Grade | Interpretation | 
 | :---: | :---: | :--- |
