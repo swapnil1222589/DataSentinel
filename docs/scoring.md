@@ -2,7 +2,7 @@
 
 DataSentinel calculates a transparent, deterministic **Data Quality Score** ranging from **0.0 to 100.0**, mapped to an academic letter grade (A+ through F).
 
-> [!NOTE]
+> [!NOTE] 
 > **Heuristic Notice:** The DataSentinel Quality Score is an automated heuristic designed to highlight structural deficiencies and distribution anomalies. It is not an absolute standard; domain requirements should always govern dataset acceptance. 
 
 ---
