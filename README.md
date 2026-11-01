@@ -4,7 +4,7 @@
 
 ## Production-Quality Open-Source Data Quality & Observability Platform
 
-**"Know your data before your model does."** 
+**"Know your data before your model does."**  
 
 [![CI](https://github.com/DataSentinel-ai/datasentinel/actions/workflows/ci.yml/badge.svg)](https://github.com/DataSentinel-ai/datasentinel/actions) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -16,7 +16,7 @@
 
 ---
 
-## 📌 Overview
+## 📌 Overview 
 
 **DataSentinel** is an open-source, local-first dataset quality, validation, and observability platform built for data scientists, machine-learning engineers, developers, and analytics teams.
 
