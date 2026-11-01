@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⛨ DataSentinel
+# ⛨ DataSentinel 
 
 ## Production-Quality Open-Source Data Quality & Observability Platform
 
