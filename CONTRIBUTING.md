@@ -6,7 +6,7 @@ Thank you for your interest in contributing to **DataSentinel**! We welcome bug 
 
 ## 🧭 Code of Conduct
 
-All contributors and participants are expected to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md). Please report unacceptable behavior to `maintainers@datasentinel.dev`.
+All contributors and participants are expected to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md). Please report unacceptable behavior to  `maintainers@datasentinel.dev`.
 
 ---
 
