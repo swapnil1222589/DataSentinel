@@ -11,7 +11,7 @@ DataSentinel is an open-source, local-first dataset quality and observability pl
 
 ---
 
-## High-Level System Architecture
+## High-Level System Architecture 
 
 ```mermaid
 graph TD
