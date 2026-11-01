@@ -1,4 +1,4 @@
-# Contributing to DataSentinel
+# Contributing to DataSentinel 
 
 Thank you for your interest in contributing to **DataSentinel**! We welcome bug reports, feature suggestions, documentation enhancements, and code contributions.
 
