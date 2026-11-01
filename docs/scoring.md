@@ -66,7 +66,7 @@ If **any CRITICAL severity issue** is detected (e.g. a column is 100% empty, or 
 
 ## Letter Grade Boundaries
 
-| Score Range | Grade | Interpretation |
+| Score Range | Grade | Interpretation | 
 | :---: | :---: | :--- |
 | **95.0 – 100.0** | **A+** | Exemplary quality; ready for mission-critical ML and analytics. |
 | **90.0 – 94.9** | **A** | Excellent quality; minor cosmetic notices. |
