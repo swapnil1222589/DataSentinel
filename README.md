@@ -158,6 +158,7 @@ DataSentinel is built with a zero-trust model for local execution:
 
 Read more in [docs/security.md](docs/security.md).
 
+
 ---
 
 ## 🗺️ Documentation
