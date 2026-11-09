@@ -21,6 +21,7 @@
 
 **DataSentinel** is an open-source, local-first dataset quality, validation, and observability platform built for data scientists, machine-learning engineers, developers, and analytics teams.
 
+
 Before passing datasets into analytics dashboards, predictive ML models, or ETL pipelines, DataSentinel automatically inspects your tabular data to surface **missingness**, **duplicate records**, **type corruption**, **statistical distribution drift**, **outliers**, and **custom business rule violations**.
 
 ### Why DataSentinel?
